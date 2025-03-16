@@ -11,6 +11,7 @@ Inventory Analysis: Monitor stock levels and optimize supply chain efficiency.
 Sales Performance: Track revenue and product performance across different regions.
 How to Use
 Open the DASHBOARD.pbix file in Power BI.
+
 ![image](https://github.com/user-attachments/assets/48be6988-f321-4c29-a6fb-0fb716ea02ca)
 
 Use filters to adjust views by region, product, or time period.
